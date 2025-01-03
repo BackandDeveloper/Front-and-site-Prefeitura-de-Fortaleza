@@ -13,7 +13,7 @@ O projeto é composto por três principais arquivos:
 - **Informações sobre alimentação saudável**: O site apresenta uma seção dedicada aos benefícios de uma alimentação equilibrada.
 - **Calculadora de IMC**: Permite que os usuários calculem seu Índice de Massa Corporal e recebam feedback sobre sua faixa de peso.
 
-## Como Usar
+## 📋| Como Usar
 1. Clone este repositório para o seu ambiente local:
    ```
    git clone https://github.com/BackandDeveloper/Front-and-site-Prefeitura-de-Fortaleza.git
