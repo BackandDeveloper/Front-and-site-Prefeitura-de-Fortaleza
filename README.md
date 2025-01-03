@@ -41,7 +41,7 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma
 ## 📑| Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-## Contato
+## 📲| Contato
 Para mais informações, entre em contato com a Prefeitura de Fortaleza.
 
 História da Campanha
