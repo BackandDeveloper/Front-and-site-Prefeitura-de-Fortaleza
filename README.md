@@ -31,7 +31,7 @@ O projeto é composto por três principais arquivos:
 
 📝| HTML: Para a estrutura do site.
 
-CSS: Para a estilização do site.
+🖌️| CSS: Para a estilização do site.
 
 JavaScript: Para a funcionalidade da calculadora de IMC.
 
