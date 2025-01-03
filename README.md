@@ -42,7 +42,9 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## 📲| Contato
-Para mais informações, entre em contato com a Prefeitura de Fortaleza.
+
+Para mais informações, entre em contato:
+
 
 História da Campanha
 A Prefeitura de Fortaleza lançou a campanha "A saúde começa com uma alimentação saudável" para conscientizar a população sobre a importância de bons hábitos alimentares. A campanha visa reduzir os índices de doenças relacionadas à má alimentação, como obesidade, diabetes e doenças cardiovasculares. Além disso, promove a adoção de uma dieta equilibrada e rica em nutrientes, que pode melhorar a qualidade de vida e aumentar a longevidade.
