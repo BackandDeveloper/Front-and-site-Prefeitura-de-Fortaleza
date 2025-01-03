@@ -34,7 +34,7 @@ CSS: Para a estilização do site.
 
 JavaScript: Para a funcionalidade da calculadora de IMC.
 
-## ontribuição
+## Contribuição
 Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 ## Licença
