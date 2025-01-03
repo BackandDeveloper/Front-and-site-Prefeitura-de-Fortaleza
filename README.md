@@ -27,7 +27,7 @@ O projeto é composto por três principais arquivos:
    
    ```
 
-## Tecnologias Utilizadas: 
+## 👾| Tecnologias Utilizadas: 
 
 📝| HTML: Para a estrutura do site.
 
