@@ -9,7 +9,7 @@ O projeto é composto por três principais arquivos:
 - `styles.css`: Contém os estilos CSS para a aparência do site.
 - `script.js`: Contém o código JavaScript para a funcionalidade da calculadora de IMC.
 
-## 📑| Funcionalidades
+## 📖| Funcionalidades
 - **Informações sobre alimentação saudável**: O site apresenta uma seção dedicada aos benefícios de uma alimentação equilibrada.
 - **Calculadora de IMC**: Permite que os usuários calculem seu Índice de Massa Corporal e recebam feedback sobre sua faixa de peso.
 
