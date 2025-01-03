@@ -23,20 +23,20 @@ bash
 cd Front-and-site-Prefeitura-de-Fortaleza
 Abra o arquivo index.html em seu navegador para visualizar o site.
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas: 
 HTML: Para a estrutura do site.
 
 CSS: Para a estilização do site.
 
 JavaScript: Para a funcionalidade da calculadora de IMC.
 
-Contribuição
+## ontribuição
 Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-Licença
+## Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-Contato
+## Contato
 Para mais informações, entre em contato com a Prefeitura de Fortaleza.
 
 História da Campanha
