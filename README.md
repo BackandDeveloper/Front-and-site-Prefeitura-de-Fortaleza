@@ -3,7 +3,7 @@
 ## 📝| Descrição
 Este projeto foi desenvolvido como parte de uma campanha da Prefeitura de Fortaleza para promover hábitos alimentares saudáveis entre a população. O site fornece informações sobre os benefícios de uma alimentação equilibrada e inclui uma calculadora de IMC (Índice de Massa Corporal) para ajudar os usuários a monitorar sua saúde.
 
-## Estrutura do Projeto
+## 🗂️| Estrutura do Projeto
 O projeto é composto por três principais arquivos:
 - `index.html`: Contém a estrutura HTML do site.
 - `styles.css`: Contém os estilos CSS para a aparência do site.
