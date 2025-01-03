@@ -38,7 +38,7 @@ O projeto é composto por três principais arquivos:
 ## 👥| Contribuição
 Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
+## 📑| Licença
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## Contato
