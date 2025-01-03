@@ -17,12 +17,14 @@ O projeto é composto por três principais arquivos:
 1. Clone este repositório para o seu ambiente local:
    ```
    git clone https://github.com/BackandDeveloper/Front-and-site-Prefeitura-de-Fortaleza.git
+   
    ```
-Navegue até o diretório do projeto:
-
-  ```
-cd Front-and-site-Prefeitura-de-Fortaleza
-Abra o arquivo index.html em seu navegador para visualizar o site.
+2. Navegue até o diretório do projeto:
+ 
+   ```
+   cd Front-and-site-Prefeitura-de-Fortaleza
+   Abra o arquivo index.html em seu navegador para visualizar o site.
+   
    ```
 
 ## Tecnologias Utilizadas: 
