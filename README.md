@@ -28,7 +28,8 @@ O projeto é composto por três principais arquivos:
    ```
 
 ## Tecnologias Utilizadas: 
-HTML: Para a estrutura do site.
+
+📝| HTML: Para a estrutura do site.
 
 CSS: Para a estilização do site.
 
