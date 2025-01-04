@@ -49,3 +49,4 @@ A Prefeitura de Fortaleza lançou a campanha "A saúde começa com uma alimenta�
 Para mais informações, entre em contato:
 
  📩| E-mail: henrique.pedro62@aluno.ifce.edu.br
+ 📩| E-mail: steiciealeixosousa@gmail.com
