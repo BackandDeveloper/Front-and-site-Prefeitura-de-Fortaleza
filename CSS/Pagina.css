@@ -163,11 +163,25 @@ footer {
     }
 }
 
-.logo { 
-    display: block;
-    margin: 0 auto 0px;
-    width: 100px; 
-    height: 100px;
-    border-radius: 50%; 
-    object-fit: cover; 
-    transition: transform 0.3s ease; }
+.logo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+}
+
+
+@media (max-width: 768px) {
+    .logo {
+        width: 120px;
+        height: 120px;
+    }
+}
+
+
+@media (max-width: 480px) {
+    .logo {
+        width: 100px;
+        height: 100px;
+    }}
