@@ -112,4 +112,20 @@ footer {
     }
 }
 
+@media (max-width: 768px) {
+    body {
+        padding: 1em;
+    }
 
+    form {
+        width: 100%;
+    }
+
+    input {
+        width: 100%;
+    }
+
+    footer {
+        padding: 1em;
+    }
+}
